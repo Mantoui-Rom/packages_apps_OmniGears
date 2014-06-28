@@ -568,4 +568,7 @@
    <!-- Lockscreen immersive mode -->
    <string name="category_immersive_mode_title">沉浸模式</string>
    <string name="lockscreen_immersive_mode_title">禁用沉浸模式</string>
- </resources>
+   <string name="lockscreen_immersive_mode_summary">仅在锁屏模式下有效</string>
+
+</resources>
+
