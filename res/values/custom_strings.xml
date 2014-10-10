@@ -417,6 +417,21 @@
     <string name="icon_picker_sms">Messaging</string>
     <string name="icon_picker_twitter">Twitter</string>
 
+    <!-- Tinted statusbar -->
+    <string name="tinted_statusbar_title">Colors</string>
+    <string name="title_tinted_statusbar">Dynamic color change</string>
+    <string name="title_tinted_statusbar_option">Apply color to</string>
+    <string name="tinted_statusbar_off">Disabled</string>
+    <string name="tinted_statusbar_actionbar">Action bar color</string>
+    <string name="tinted_statusbar_system">Screen color</string>
+    <string name="tinted_statusbar_statusbar">Status bar</string>
+    <string name="tinted_statusbar_navbar">Navigation bar</string>
+    <string name="tinted_statusbar_all">Both</string>
+    <string name="tinted_statusbar_filter_title">Reverse color</string>
+    <string name="tinted_statusbar_filter_summary">Enable using reverse color</string>
+    <string name="tinted_statusbar_transparent_title">Status bar opacity</string>
+    <string name="tinted_navbar_transparent_title">Navigation bar opacity</string>
+
     <string name="quick_settings_category_title">Quick settings</string>
 
     <!-- QuickSettings: Dynamic Row -->
@@ -486,6 +501,7 @@
     <string name="clock_color_title">Color</string>
     <string name="status_bar_clock_style_reset">Reset color</string>
     <string name="status_bar_show_clock_title">Show clock and date</string>
+    <string name="status_bar_force_clock_lockscreen">Always show on lockscreen</string>
     <string name="status_bar_am_pm_title">AM/PM</string>
     <string name="status_bar_am_pm_info">24-hour clock is enabled</string>
     <string name="enable_clock_weekday">Day of the week</string>
@@ -569,4 +585,5 @@
    <string name="category_immersive_mode_title">Immersive mode</string>
    <string name="lockscreen_immersive_mode_title">Disable immersive mode</string>
    <string name="lockscreen_immersive_mode_summary">Only valid in lock screen mode</string>
+
 </resources>
