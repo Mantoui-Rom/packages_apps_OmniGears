@@ -417,6 +417,21 @@
     <string name="icon_picker_sms">短信</string>
     <string name="icon_picker_twitter">Twitter</string>
 
+    <!-- Tinted statusbar -->
+    <string name="tinted_statusbar_title">变色龙</string>
+    <string name="title_tinted_statusbar">动态颜色选择</string>
+    <string name="title_tinted_statusbar_option">应用颜色到</string>
+    <string name="tinted_statusbar_off">关闭</string>
+    <string name="tinted_statusbar_actionbar">动作条颜色</string>
+    <string name="tinted_statusbar_system">背景色颜色</string>
+    <string name="tinted_statusbar_statusbar">状态栏</string>
+    <string name="tinted_statusbar_navbar">导航栏</string>
+    <string name="tinted_statusbar_all">全部</string>
+    <string name="tinted_statusbar_filter_title">反转颜色</string>
+    <string name="tinted_statusbar_filter_summary">反转颜色开启</string>
+    <string name="tinted_statusbar_transparent_title">状态栏透明度</string>
+    <string name="tinted_navbar_transparent_title">状态栏透明度</string>
+
     <string name="quick_settings_category_title">快速设置面板</string>
 
     <!-- QuickSettings: Dynamic Row -->
