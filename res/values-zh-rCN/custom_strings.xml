@@ -429,6 +429,8 @@
     <string name="tinted_statusbar_all">全部</string>
     <string name="tinted_statusbar_filter_title">反转颜色</string>
     <string name="tinted_statusbar_filter_summary">反转颜色开启</string>
+    <string name="tinted_statusbar_full_mode_title">通知抽屉颜色</string>
+    <string name="tinted_statusbar_full_mode_summary">应用当前颜色到通知抽屉</string>
     <string name="tinted_statusbar_transparent_title">状态栏透明度</string>
     <string name="tinted_navbar_transparent_title">状态栏透明度</string>
 
